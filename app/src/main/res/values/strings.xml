@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Banco</string>
+    <string name="text_buton">Enviar RUT</string>
+</resources>
